@@ -4,7 +4,7 @@
 
 The Advisory Services Team at the prominent investment bank, Accountability Accounting, is interested in offering a new cryptocurrency investment portfolio for its customers.  The company, however, is lost in the vast universe of cryptocurrencies. So, they’ve asked for a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
 
-To create this classifaction system, the data is not ideal so it will need to be processed to fit the machine learning models. Since there is no known output for the model, unsupervised learning was used to create the analysis. To group the cryptocurrencies, the Principal Component Analysis (PCA) clustering algorithm was used.  In addition, data visualizations were created to share the findings with the board.
+To create this classification system, the data is not ideal so it was processed to fit the machine learning models. Since there is no known output for the model, unsupervised learning was used to create the analysis. To group the cryptocurrencies, the Principal Component Analysis (PCA) clustering algorithm was used.  In addition, data visualizations were created to share the findings with the board.
 
 ## Results
 
